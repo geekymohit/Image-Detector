@@ -1,0 +1,9 @@
+---
+applications:
+  - path: .
+    name: Image Detector
+    environment_json: {}
+    memory: 128M
+    instances: 1
+    disk_quota: 1024M
+    services: []
